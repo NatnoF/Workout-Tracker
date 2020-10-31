@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
-This project allows you to write down your day by day workouts and keep track of what you've been doing. Once you reach a certain amount of days, you can click the top left to view two different graphs and pie charts showing some information about your workouts in general.
+This project allows you to write down your day by day workouts and keep track of what you've been doing. You can click the top left, where it says "Dashboard", to view two different graphs and pie charts showing some information about your workouts in general.
 
 ## Deployed Link
 https://secure-ridge-31666.herokuapp.com/?id=5f9caa740d88920017e9573b
